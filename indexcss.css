@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: rgb(255, 255, 216);
+}
+
+.fundo{
+padding-left:400px;
+padding-top: 50px;
+}
+
+.fundo2{
+    text-align: center;
+    width: 50%;
+    border: 2px solid black;
+}
+
+.title{
+    color: rgb(213, 185, 240);
+    margin: 20px;
+}
+
+#texto{
+    margin-left: 140px;
+    padding-bottom: 10px;
+    width: 200px;
+}
+
+#aperte{
+    color: rgb(129, 62, 190);
+    text-decoration: none;
+    margin: 20px;
+    background: rgb(255, 255, 177);
+}
