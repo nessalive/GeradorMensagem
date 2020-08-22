@@ -11,6 +11,6 @@ aperteme.addEventListener("click", gerar)
 function gerar(){
     let contar = Math.floor(Math.random() *
 msg.length)
-document.getElementById("texto").style.color = cor[contar]
+document.body.style.backgroundColor = cor[contar]
 document.getElementById("texto").innerHTML = msg[contar]
 }
